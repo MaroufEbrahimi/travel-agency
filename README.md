@@ -4,6 +4,8 @@
 
  # Demo
  Visit: [Project travel-agency demo](https://maroufebrahimi.github.io/travel-agency/)
+ 
+ ![travel-agency](https://user-images.githubusercontent.com/104528241/184027775-ba9c2c49-ad2c-4313-a31b-b00e5a7dbe5f.PNG)
 
 
 # features
