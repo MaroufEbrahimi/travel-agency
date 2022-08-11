@@ -1,3 +1,9 @@
+.caption {
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+
 .section-search input {
     padding: 5px !important;
     font-size: 18px !important;
@@ -13,5 +19,3 @@
     color: #ddd;
     transition: 0.9s;
 }
-
-
