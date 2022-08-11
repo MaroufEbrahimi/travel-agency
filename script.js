@@ -1,5 +1,5 @@
 if (!navigator.onLine) {
-   alert('لطفا به انترنت وصل شوید!');
+   alert('Please, check your connection!');
 }
 
 // Sidenav
