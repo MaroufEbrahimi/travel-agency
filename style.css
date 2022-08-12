@@ -1,7 +1,5 @@
-.caption {
-    background-color: rgba(0, 0, 0, 0.3);
-    padding: 10px 20px;
-    border-radius: 15px;
+.slides li img {
+    filter: brightness(60%);
 }
 
 .section-search input {
